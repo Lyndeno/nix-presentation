@@ -32,6 +32,7 @@
             lato
             fontaxes
             xkeyval
+            beamer
           ]);
       in rec {
         checks = {

@@ -5,3 +5,7 @@
 /*.pdf
 /*.synctex.gz
 /.cache/
+nix-presentation.nav
+nix-presentation.out
+nix-presentation.snm
+nix-presentation.toc
